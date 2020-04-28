@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="FS10-PC" name="Pruebas.TestPersonaje" skipped="0" tests="26" time="0.118" timestamp="2017-06-26T22:33:06">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="env.MOZ_PLUGIN_PATH" value="C:\Program Files (x86)\Foxit Software\Foxit Reader\plugins\" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="env.PROMPT" value="$P$G" />
+    <property name="os.name" value="Windows 7" />
+    <property name="env.FP_NO_HOST_CHECK" value="NO" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_131\jre\classes" />
+    <property name="env.COMPUTERNAME" value="FS10-PC" />
+    <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files" />
+    <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.file.type.DragonAlgoBall" value="file" />
+    <property name="ant.home" value="C:\ant" />
+    <property name="java.runtime.version" value="1.8.0_131-b11" />
+    <property name="env.HOMEPATH" value="\Users\FS10" />
+    <property name="user.name" value="FS10" />
+    <property name="user.language" value="es" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\bin" />
+    <property name="ant.project.default-target" value="build" />
+    <property name="ant.project.name" value="DragonAlgoBall" />
+    <property name="java.version" value="1.8.0_131" />
+    <property name="env.PROCESSOR_IDENTIFIER" value="AMD64 Family 21 Model 2 Stepping 0, AuthenticAMD" />
+    <property name="user.timezone" value="" />
+    <property name="env.asl.log" value="Destination=file" />
+    <property name="env.TEMP" value="C:\Users\FS10\AppData\Local\Temp" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\endorsed" />
+    <property name="env._JAVACMD" value="C:\Program Files\Java\jdk1.8.0_131\bin\java.exe" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="env.HOMEDRIVE" value="C:" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="ECLIPSE_HOME" value="../../../Downloads/eclipses/eclipse/" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="52.0" />
+    <property name="user.country" value="AR" />
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_131\jre" />
+    <property name="env.PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\" />
+    <property name="env.APPDATA" value="C:\Users\FS10\AppData\Roaming" />
+    <property name="env.PUBLIC" value="C:\Users\Public" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="env.ComSpec" value="C:\Windows\system32\cmd.exe" />
+    <property name="env.JD2_HOME" value="C:\Users\FS10\AppData\Local\JDownloader v2.0" />
+    <property name="env.OS" value="Windows_NT" />
+    <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+    <property name="ant.file" value="C:\Users\FS10\git\DragonAlgoBall\DragonAlgoBall\build.xml" />
+    <property name="os.version" value="6.1" />
+    <property name="env.ProgramW6432" value="C:\Program Files" />
+    <property name="env._USE_CLASSPATH" value="yes" />
+    <property name="env.=::" value="::\" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="25.131-b11" />
+    <property name="user.variant" value="" />
+    <property name="env.USERPROFILE" value="C:\Users\FS10" />
+    <property name="ant.library.dir" value="C:\ant\lib" />
+    <property name="junit.output.dir" value="junit" />
+    <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_131" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="env.TMP" value="C:\Users\FS10\AppData\Local\Temp" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="sun.stdout.encoding" value="cp850" />
+    <property name="user.script" value="" />
+    <property name="user.home" value="C:\Users\FS10" />
+    <property name="target" value="1.8" />
+    <property name="env.ProgramData" value="C:\ProgramData" />
+    <property name="env.SESSIONNAME" value="Console" />
+    <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="env.CLASSPATH" value="C:\Program Files\Java\jdk1.8.0_131\jrelib;" />
+    <property name="env.NUMBER_OF_PROCESSORS" value="8" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Altium Designer Summer 08\System;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\MinGW\bin;C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin;C:\ant\bin;C:\Program Files\Java\jdk1.8.0_131\bin;." />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.1 compiled on February 2 2017" />
+    <property name="java.class.path" value="C:\Users\FS10\git\DragonAlgoBall\DragonAlgoBall\bin;C:\Users\FS10\Downloads\eclipses\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Users\FS10\Downloads\eclipses\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:\ant\lib\ant-launcher.jar;C:\ant\lib\ant.jar;C:\ant\lib\ant-junit.jar;C:\ant\lib\ant-junit4.jar" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner Pruebas.TestPersonaje skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\FS10\git\DragonAlgoBall\DragonAlgoBall\junit\TEST-Pruebas.TestPersonaje.xml crashfile=C:\Users\FS10\git\DragonAlgoBall\DragonAlgoBall\junitvmwatcher8405988176061947445.properties propsfile=C:\Users\FS10\git\DragonAlgoBall\DragonAlgoBall\junit6298565594975500840.properties" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.file.type" value="file" />
+    <property name="env.LOGONSERVER" value="\\FS10-PC" />
+    <property name="env.windir" value="C:\Windows" />
+    <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="env.AltiumPath" value="C:\Program Files (x86)\Altium Designer Summer 08\System" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="Service Pack 1" />
+    <property name="debuglevel" value="source,lines,vars" />
+    <property name="env.OneDrive" value="C:\Users\FS10\OneDrive" />
+    <property name="env.ProgramFiles" value="C:\Program Files" />
+    <property name="env.ANT_HOME" value="C:\ant" />
+    <property name="java.io.tmpdir" value="C:\Users\FS10\AppData\Local\Temp\" />
+    <property name="env.PROCESSOR_REVISION" value="0200" />
+    <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="env.SystemRoot" value="C:\Windows" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="env.ANT_CMD_LINE_ARGS" value=" Pruebas" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+    <property name="env.LOCALAPPDATA" value="C:\Users\FS10\AppData\Local" />
+    <property name="user.dir" value="C:\Users\FS10\git\DragonAlgoBall\DragonAlgoBall" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+    <property name="env.Path" value="C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Altium Designer Summer 08\System;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\MinGW\bin;C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin;C:\ant\bin;C:\Program Files\Java\jdk1.8.0_131\bin" />
+    <property name="basedir" value="C:\Users\FS10\git\DragonAlgoBall\DragonAlgoBall" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="C:\ant\lib\ant.jar" />
+    <property name="env.USERNAME" value="FS10" />
+    <property name="env.ESET_OPTIONS" value="                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               " />
+    <property name="env.SystemDrive" value="C:" />
+    <property name="source" value="1.8" />
+    <property name="sun.stderr.encoding" value="cp850" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="env.USERDOMAIN" value="FS10-PC" />
+    <property name="ant.file.DragonAlgoBall" value="C:\Users\FS10\git\DragonAlgoBall\DragonAlgoBall\build.xml" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="env.=C:" value="C:\Users\FS10\git\DragonAlgoBall\DragonAlgoBall" />
+    <property name="ant.project.invoked-targets" value="Pruebas" />
+    <property name="env.PROCESSOR_LEVEL" value="21" />
+  </properties>
+  <testcase classname="Pruebas.TestPersonaje" name="test04GetPosicion" time="0.009" />
+  <testcase classname="Pruebas.TestPersonaje" name="test11MoverPersonajeHaciaArriba" time="0.0" />
+  <testcase classname="Pruebas.TestPersonaje" name="test02GetNombre" time="0.0" />
+  <testcase classname="Pruebas.TestPersonaje" name="test23MoverPersonajeHaciaDerechaMovimientoInvalidoLimitesTablero" time="0.001" />
+  <testcase classname="Pruebas.TestPersonaje" name="test25MoverPersonajeHaciaIzquierdaMovimientoInvalidoLimitesTablero" time="0.0" />
+  <testcase classname="Pruebas.TestPersonaje" name="test15MoverPersonajeHaciaArribaIzquierda" time="0.001" />
+  <testcase classname="Pruebas.TestPersonaje" name="test03GetKi" time="0.0" />
+  <testcase classname="Pruebas.TestPersonaje" name="test12MoverPersonajeHaciaAbajo" time="0.001" />
+  <testcase classname="Pruebas.TestPersonaje" name="test01CrearPersonajes" time="0.0" />
+  <testcase classname="Pruebas.TestPersonaje" name="test09GetPoderDePelea" time="0.0" />
+  <testcase classname="Pruebas.TestPersonaje" name="test21MoverPersonajeHaciaArribaMovimientoInvalidoPorPersonajeAdyacente" time="0.001" />
+  <testcase classname="Pruebas.TestPersonaje" name="test06GetVelocidad" time="0.001" />
+  <testcase classname="Pruebas.TestPersonaje" name="test19MoverPersonajeHaciaAbajoMovimientoInvalidoPorPersonajeAdyacente" time="0.001" />
+  <testcase classname="Pruebas.TestPersonaje" name="test07GetVelocidadDespuesDeEvolucionar" time="0.001" />
+  <testcase classname="Pruebas.TestPersonaje" name="test05AumentarKi" time="0.0" />
+  <testcase classname="Pruebas.TestPersonaje" name="test26MoverPersonajeHaciaIzquierdaMovimientoInvalidoPorPersonajeAdyacente" time="0.001" />
+  <testcase classname="Pruebas.TestPersonaje" name="test16MoverPersonajeHaciaArribaDerecha" time="0.001" />
+  <testcase classname="Pruebas.TestPersonaje" name="test18MoverPersonajeHaciaAbajoIzquierda" time="0.0" />
+  <testcase classname="Pruebas.TestPersonaje" name="test20MoverPersonajeHaciaAbajoMovimientoInvalidoLimitesTablero" time="0.0" />
+  <testcase classname="Pruebas.TestPersonaje" name="test08GetKiDespuesDeEvolucionar" time="0.0" />
+  <testcase classname="Pruebas.TestPersonaje" name="test22MoverPersonajeHaciaArribaMovimientoInvalidoLimitesTablero" time="0.0" />
+  <testcase classname="Pruebas.TestPersonaje" name="test17MoverPersonajeHaciaAbajoDerecha" time="0.0" />
+  <testcase classname="Pruebas.TestPersonaje" name="test10GetPoderDePeleaDespuesDeEvolucionar" time="0.0" />
+  <testcase classname="Pruebas.TestPersonaje" name="test24MoverPersonajeHaciaDerechaMovimientoInvalidoPorPersonajeAdyacente" time="0.0" />
+  <testcase classname="Pruebas.TestPersonaje" name="test14MoverPersonajeHaciaIzquierda" time="0.0" />
+  <testcase classname="Pruebas.TestPersonaje" name="test13MoverPersonajeHaciaDerecha" time="0.0" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
